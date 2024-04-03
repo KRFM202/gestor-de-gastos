@@ -44,4 +44,3 @@ Para la persistencia de los gastos, se utiliza Java IO, específicamente ObjectI
 2. Abre el proyecto en tu IDE de Java.
 3. Compila y ejecuta `GastosConsolaApp.java` para iniciar la aplicación.
 
-¡Disfruta gestionando tus gastos con esta sencilla aplicación de consola!
